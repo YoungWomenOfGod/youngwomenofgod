@@ -1,0 +1,15 @@
+h1{
+color: #33CCCC;}
+.Menu li { 
+display: inline;
+text-align: center;
+}
+
+.Menu a{ 
+text-decoration: none;
+color: #000000;
+}
+.Menu a:hover{
+	background-color: #33CCCC;
+	border-radius: 15px;
+}
