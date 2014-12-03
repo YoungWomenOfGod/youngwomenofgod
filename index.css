@@ -1,9 +1,11 @@
 h1{
+
 color: #fff;}
 .Menu li { 
 background: rosybrown;
 display: inline;
 text-align: center;
+
 }
 
 .Menu a{ 
@@ -11,10 +13,12 @@ text-decoration: none;
 color: #000000;
 }
 .Menu a:hover{
+
 	background-color: whitesmoke;
 	border-radius: 15px;
 }
 
 .Header {
   background-color: slategray;
+
 }
